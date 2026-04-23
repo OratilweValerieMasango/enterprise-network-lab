@@ -14,7 +14,14 @@
 * Applied group policies and access control
 
 ---
+## 🎯 Impact
 
+- Designed and secured a simulated enterprise network environment  
+- Implemented Active Directory, DNS, and firewall configurations  
+- Applied access control and group policies to enforce security  
+- Improved overall network security and system management practices
+
+---
 ## 🛠️ Tools
 
 `Windows Server` `Active Directory` `GNS3`
