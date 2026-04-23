@@ -23,7 +23,7 @@
 
 ## 📄 Project
 
-👉 [View Project](./ORATILWE%20MASANGO%20CASP+%20PROJECT%283%29.pdf)
+👉 [View Project](./ORATILWE%20MASANGO%20CASP+%20PROJECT.pdf)
 
 ---
 
